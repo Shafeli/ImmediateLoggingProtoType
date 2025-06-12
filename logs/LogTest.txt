@@ -1,0 +1,4 @@
+2025-06-10 22:53:52 [~INFO~] Starting insert system something
+2025-06-10 22:53:52 [~DEBUG~] Debug Test: Loading something game assets failed
+2025-06-10 22:53:52 [~WARNING~] Warning Test: Something is a warning
+2025-06-10 22:53:52 [~ERROR~] Error Test: Something crashed!
